@@ -116,4 +116,4 @@ def test():
         print('DONE')
 
 
-# test()
+test()
